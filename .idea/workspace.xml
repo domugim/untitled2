@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a91274a4-5bab-4374-9769-b14601d69562" name="변경" comment="" />
+    <list default="true" id="a91274a4-5bab-4374-9769-b14601d69562" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/setnadoyo.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +27,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "master 병합 중",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
